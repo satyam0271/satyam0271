@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development,Data Science and AI
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 satyamkumar7912@gmail.com
 
 <!---
 satyam0271/satyam0271 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
