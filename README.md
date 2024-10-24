@@ -12,7 +12,7 @@ has been fueled by a curiosity to understand patterns and make data-driven decis
 - **Programming Languages:** Python
 - **Data Analysis:** Pandas, NumPy
 - **Database Management:** SQL, MongoDB
-- **Tools & Technologies:** Jupyter Notebooks, Git, GitHub
+- **Tools & Technologies:** Jupyter Notebooks, Excel, Git, GitHub
 
 
 ## Goals
